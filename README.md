@@ -40,5 +40,5 @@ This application was developed only for project purposes and the data for this a
 - https://www.screener.in/
 - https://ticker.finology.in/
 
-This application didn't mean to pirate data from these websites but it was only cfreated for a college project.
-I strongly recommend users to visit the above stated websites. These websites are amazing and more reliable for stock analysis. Please do have a look thank you!
+This application didn't mean to pirate data from these websites but it was only created for a college project.
+I strongly recommend users to visit the above stated websites. These websites are amazing and are more reliable for stock analysis. Please do have a look thank you!
