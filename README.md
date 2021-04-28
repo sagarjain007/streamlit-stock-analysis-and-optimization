@@ -34,7 +34,6 @@ External plugins and resources used for this applications
 | Screener.in | Data |
 | ticker.finology.in | Data |
 
-## Plugins & resources
 
 This application was developed only for project purposes and the data for this application was obtained by scraping the following websites:
 
