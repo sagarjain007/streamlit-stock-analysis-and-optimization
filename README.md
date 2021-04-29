@@ -11,8 +11,8 @@ Stock analysis and portfolio optimization is implemented using the python progra
 
 Behind the scenes of the application:
 
-- Streamlit - HTML enhanced for web apps!
-- Python - awesome web-based text editor
+- Python - The best programming language for analytics.
+- Streamlit - Python library to create Data Science apps.
 
 ## Live Application
 
